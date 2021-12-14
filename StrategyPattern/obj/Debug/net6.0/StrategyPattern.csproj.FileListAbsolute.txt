@@ -1,0 +1,14 @@
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\bin\Debug\net6.0\StrategyPattern.exe
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\bin\Debug\net6.0\StrategyPattern.deps.json
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\bin\Debug\net6.0\StrategyPattern.runtimeconfig.json
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\bin\Debug\net6.0\StrategyPattern.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\bin\Debug\net6.0\ref\StrategyPattern.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\bin\Debug\net6.0\StrategyPattern.pdb
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\StrategyPattern.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\ref\StrategyPattern.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\StrategyPattern.pdb
+C:\Users\phamd\source\repos\DesignPatternDemo\StrategyPattern\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache

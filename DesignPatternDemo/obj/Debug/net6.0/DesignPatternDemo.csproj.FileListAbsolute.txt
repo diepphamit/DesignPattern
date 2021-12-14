@@ -1,0 +1,15 @@
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.exe
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.deps.json
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.runtimeconfig.json
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\net6.0\ref\DesignPatternDemo.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\bin\Debug\net6.0\DesignPatternDemo.pdb
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.csproj.AssemblyReference.cache
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.AssemblyInfoInputs.cache
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.AssemblyInfo.cs
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\ref\DesignPatternDemo.dll
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.pdb
+C:\Users\phamd\source\repos\DesignPatternDemo\DesignPatternDemo\obj\Debug\net6.0\DesignPatternDemo.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+﻿This is a singleton pattern readme file.

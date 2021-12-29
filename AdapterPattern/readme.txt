@@ -1,0 +1,1 @@
+﻿this is adapter design pattern description
